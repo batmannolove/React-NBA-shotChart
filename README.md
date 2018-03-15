@@ -32,10 +32,7 @@ The NBA&#39;s Stats API provides data for every single shot attempted during an 
 Shooting charts help you identify trends, strengths, weaknesses, and ultimately give you insights to improve your team&#39;s overall shooting percentage.
 
 [**https://www.poundingtherock.com/2016/2/29/11135958/spurs-hire-leading-analytic-expert-goldsberry**](https://www.poundingtherock.com/2016/2/29/11135958/spurs-hire-leading-analytic-expert-goldsberry)
-
-[**@**](https://www.poundingtherock.com/2016/2/29/11135958/spurs-hire-leading-analytic-expert-goldsberry)
-
-[**@**](https://www.poundingtherock.com/2016/2/29/11135958/spurs-hire-leading-analytic-expert-goldsberry)
+ 
 
 ![1](https://user-images.githubusercontent.com/6482545/37437692-10981ce6-27c5-11e8-8fc8-04756841fdf8.jpg)
 ![2](https://user-images.githubusercontent.com/6482545/37437693-10adbf9c-27c5-11e8-8258-478b3ebec0b9.jpg)
