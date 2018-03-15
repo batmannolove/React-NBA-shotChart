@@ -40,7 +40,18 @@ Shooting charts help you identify trends, strengths, weaknesses, and ultimately 
 
 **Project Setup**
 
-| create-react-app nba-webcd nba-webnpm install -S nbanpm install -S d3-shotchartnpm start |
+| create-react-app nba-web
+
+
+cd nba-web
+
+npm install -S nba
+
+
+npm install -S d3-shotchart
+
+
+npm start 
 | --- |
 
 **Main parts of application**
