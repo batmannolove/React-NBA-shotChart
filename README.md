@@ -40,7 +40,7 @@ Shooting charts help you identify trends, strengths, weaknesses, and ultimately 
 
 **Project Setup**
 
-| create-react-app nba-web
+create-react-app nba-web
 
 
 cd nba-web
