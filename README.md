@@ -1,5 +1,14 @@
 **NBA Player Shooting Visualization**
 
+
+DEMO:
+
+
+http://192.144.132.138:3000/
+
+
+
+
 This is a web app that visualizes NBA player&#39;s shooting performance.
 
 - Built a web app to visualize NBA player&#39;s shot performance using **React** , the open source **d3** -shotchart package and front-end development tools ( **Babel** , **NPM** , etc)
