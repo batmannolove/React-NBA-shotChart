@@ -4,7 +4,11 @@
 **DEMO**:
 
 
+(This project not deployed on AWS because stats.nba.com blocked AWS... Great work of data scientists who are also NBA fans...)
+
+
 http://192.144.132.138:3000/
+
 
 
 
