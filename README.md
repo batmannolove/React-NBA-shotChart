@@ -1,7 +1,7 @@
 **NBA Player Shooting Visualization**
 
 
-DEMO:
+**DEMO**:
 
 
 http://192.144.132.138:3000/
